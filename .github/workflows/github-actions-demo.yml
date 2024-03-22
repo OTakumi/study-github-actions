@@ -1,5 +1,3 @@
-// github actions workflow file
-// this is demo
 name: Github Actions demo
 run-name: ${{ github.actor }}
 on: [push]
